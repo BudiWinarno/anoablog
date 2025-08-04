@@ -23,6 +23,7 @@
                             </p>
                         </div>
                     </div>
+                    
 
                     <div class="col-lg-6">
                         <div class="hero-image" data-aos="zoom-out" data-aos-delay="300">
