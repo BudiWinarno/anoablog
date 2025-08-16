@@ -45,7 +45,8 @@
 
                     <div class="col-xl-5" data-aos="fade-up" data-aos-delay="200">
                         <span class="about-meta">ABOUT US</span>
-                        <p class="about-description">We are a professional software house and software academy specializing in comprehensive end-to-end web development services tailored to the unique needs of each business. Whether you're a startup aiming to build a strong online presence or a large enterprise looking to optimize your digital platforms, our team is equipped with the expertise and experience to deliver highly targeted web solutions.Our core competencies include responsive website design, progressive web apps (PWAs), e-commerce platforms, content management systems (CMS), and custom-built web-based systems. We leverage the latest technologies and frameworks to ensure your web solutions are fast, scalable, secure, and easy to maintain.</p>
+                        <p class="about-description" style="text-align: justify;">We are a professional software house and software academy specializing in comprehensive end-to-end web development services tailored to the unique needs of each business. Whether you're a startup aiming to build a strong online presence or a large enterprise looking to optimize your digital platforms, our team is equipped with the expertise and experience to deliver highly targeted web solutions.</p>
+                        <p class="about-descriptio" style="text-align: justify;">Our core competencies include responsive website design, progressive web apps (PWAs), e-commerce platforms, content management systems (CMS), and custom-built web-based systems. We leverage the latest technologies and frameworks to ensure your web solutions are fast, scalable, secure, and easy to maintain.</p>
                     </div>
 
                     <div class="col-xl-6" data-aos="fade-up" data-aos-delay="300">
@@ -67,7 +68,7 @@
 
             <!-- Section Title -->
             <div class="container section-title" data-aos="fade-up">
-                <h2>Test CI/CD</h2>
+                <h2>Blog</h2>
                 <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
             </div><!-- End Section Title -->
 
