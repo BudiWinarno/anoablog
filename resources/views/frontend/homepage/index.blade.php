@@ -110,72 +110,6 @@
 
         </section><!-- /Features Cards Section -->
 
-        <!-- Features 2 Section -->
-        
-
-        <!-- Clients Section -->
-        <section id="clients" class="clients section">
-
-            <div class="container" data-aos="fade-up" data-aos-delay="100">
-
-                <div class="swiper init-swiper">
-                    <script type="application/json" class="swiper-config">
-            {
-              "loop": true,
-              "speed": 600,
-              "autoplay": {
-                "delay": 5000
-              },
-              "slidesPerView": "auto",
-              "pagination": {
-                "el": ".swiper-pagination",
-                "type": "bullets",
-                "clickable": true
-              },
-              "breakpoints": {
-                "320": {
-                  "slidesPerView": 2,
-                  "spaceBetween": 40
-                },
-                "480": {
-                  "slidesPerView": 3,
-                  "spaceBetween": 60
-                },
-                "640": {
-                  "slidesPerView": 4,
-                  "spaceBetween": 80
-                },
-                "992": {
-                  "slidesPerView": 6,
-                  "spaceBetween": 120
-                }
-              }
-            }
-          </script>
-                    <div class="swiper-wrapper align-items-center">
-                        <div class="swiper-slide"><img src="assets/img/clients/client-1.png" class="img-fluid"
-                                alt=""></div>
-                        <div class="swiper-slide"><img src="assets/img/clients/client-2.png" class="img-fluid"
-                                alt=""></div>
-                        <div class="swiper-slide"><img src="assets/img/clients/client-3.png" class="img-fluid"
-                                alt=""></div>
-                        <div class="swiper-slide"><img src="assets/img/clients/client-4.png" class="img-fluid"
-                                alt=""></div>
-                        <div class="swiper-slide"><img src="assets/img/clients/client-5.png" class="img-fluid"
-                                alt=""></div>
-                        <div class="swiper-slide"><img src="assets/img/clients/client-6.png" class="img-fluid"
-                                alt=""></div>
-                        <div class="swiper-slide"><img src="assets/img/clients/client-7.png" class="img-fluid"
-                                alt=""></div>
-                        <div class="swiper-slide"><img src="assets/img/clients/client-8.png" class="img-fluid"
-                                alt=""></div>
-                    </div>
-                    <div class="swiper-pagination"></div>
-                </div>
-
-            </div>
-
-        </section><!-- /Clients Section -->
 
         <!-- Testimonials Section -->
         <section id="testimonials" class="testimonials section light-background">
@@ -379,7 +313,6 @@
             <!-- Section Title -->
             <div class="container section-title" data-aos="fade-up">
                 <h2>Contact</h2>
-                <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
             </div><!-- End Section Title -->
 
             <div class="container" data-aos="fade-up" data-aos-delay="100">
@@ -388,8 +321,6 @@
                     <div class="col-lg-5">
                         <div class="info-box" data-aos="fade-up" data-aos-delay="200">
                             <h3>Contact Info</h3>
-                            <p>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum
-                                primis.</p>
 
                             <div class="info-item" data-aos="fade-up" data-aos-delay="300">
                                 <div class="icon-box">
@@ -398,7 +329,7 @@
                                 <div class="content">
                                     <h4>Our Location</h4>
                                     <p>A108 Adam Street</p>
-                                    <p>New York, NY 535022</p>
+                                    <p>Jakarta, Indonesia</p>
                                 </div>
                             </div>
 
@@ -419,8 +350,8 @@
                                 </div>
                                 <div class="content">
                                     <h4>Email Address</h4>
-                                    <p>info@example.com</p>
-                                    <p>contact@example.com</p>
+                                    <p>info@anoa-indonesia.com</p>
+                                    <p>contact@anoa-indonesia.com</p>
                                 </div>
                             </div>
                         </div>
@@ -429,8 +360,6 @@
                     <div class="col-lg-7">
                         <div class="contact-form" data-aos="fade-up" data-aos-delay="300">
                             <h3>Get In Touch</h3>
-                            <p>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum
-                                primis.</p>
 
                             <form action="forms/contact.php" method="post" class="php-email-form" data-aos="fade-up"
                                 data-aos-delay="200">
