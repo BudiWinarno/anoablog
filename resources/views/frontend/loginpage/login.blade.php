@@ -13,6 +13,10 @@
     <div class="card-body p-4 text-center">
       <h3 class="mb-4 text-primary fw-bold">Login</h3>
 
+      @if(session('success'))
+        <div class="alert alert-success">{{ session('success') }}</div>
+      @endif
+
       <!-- Form Login -->
       <form action="{{ route('login') }}" method="POST">
         @csrf
